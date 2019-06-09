@@ -15,3 +15,5 @@ Every project in this folder I used during my practice at the Volvo.
 ## Attenion
 
 These projects are free for personal use. If you want to use for commercial projects please contact me.
+
+arturzajac1996@gmail.com
